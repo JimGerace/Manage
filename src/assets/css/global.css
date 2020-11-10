@@ -1,0 +1,32 @@
+html,body,span,div,a,input,img,li,ul{
+    padding: 0;
+    margin: 0;
+}
+html,body,#app{
+    width: 100%;
+    height: 100%;
+}
+.el-submenu__title:hover{
+    background-color: #335c7e !important
+}
+.el-menu-item:hover{
+    background-color: #335c7e !important
+}
+.el-card{
+    margin-top: 15px;
+}
+.el-table{
+    margin-top: 15px;
+}
+.el-pagination{
+    margin-top: 10px;
+}
+.el-cascader-panel{
+    height: 200px;
+}
+.el-step__title{
+    font-size: 14px;
+}
+.ql-editor{
+    min-height: 300px;
+}
